@@ -17,4 +17,4 @@ jobs:
       - name: Build with Maven
         env:
           COVERALLS_TOKEN: ${{ secrets.COVERALLS_TOKEN }}
-        run: mvn -DrepoToken=$COVERALLS_TOKEN clean package cobertura:cobertura coveralls:report
+        run: mvn -DrepoToken=$COVERALLS_TOKEN cobertura:cobertura coveralls:report
