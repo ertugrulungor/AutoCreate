@@ -1,0 +1,17 @@
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/enums/CreationType.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/BaseValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/FloatValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/DateValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/ByteValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/factories/ValueCreatorFactory.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/BooleanValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/StringValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/DoubleValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/IntegerValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/AutoCreate.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/LongValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/AutoFill.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/CharValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/Assigner.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/ValueCreator.java
+/Users/ertugrulungor/Documents/dev/AutoCreate/src/main/java/com/github/ertugrulungor/creators/ShortValueCreator.java
