@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.github.ertugrulungor.generated.AutoCreateTest_it_should_create_primitive_double_using_create_jmhTest
--------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
