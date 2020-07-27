@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.github.ertugrulungor"},{"l":"com.github.ertugrulungor.creators"},{"l":"com.github.ertugrulungor.enums"},{"l":"com.github.ertugrulungor.factories"}]
